@@ -1,0 +1,9 @@
+html {
+  background: black;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
